@@ -51,8 +51,10 @@ public class HomeworkTest {
         driver.findElement(By.cssSelector("[href^='/Them']"));
         driver.findElement(By.cssSelector("img[src$='images/logo.png']"));
         driver.findElement(By.cssSelector("img[src$='png']"));
+    }
 
-
+    @Test
+    public void TenthAprilHomework(){
 
     }
 }
